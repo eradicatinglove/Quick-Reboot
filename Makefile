@@ -30,10 +30,9 @@ include $(DEVKITPRO)/libnx/switch_rules
 #     - icon.jpg
 #     - <libnx folder>/default_icon.jpg
 #---------------------------------------------------------------------------------
-APP_TITLE := restartswitch
+APP_TITLE := Quick Reboot
 APP_AUTHOR := eradicatinglove
 APP_VERSION := 1.0.0
-APP_TITLEID := 0104561737950000
 ICON := icon.jpg
 
 TARGET		:=	$(notdir $(CURDIR))
