@@ -9,9 +9,9 @@ int main(int argc, char **argv)
 {
     consoleInit(NULL);
    
-    bpcInitialize();
+    spsmInitialize();
    
-    bpcRebootSystem();
+    spsmShutdown(true);
    
     return 0;
 }
