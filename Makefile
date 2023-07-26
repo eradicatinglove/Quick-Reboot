@@ -32,7 +32,7 @@ include $(DEVKITPRO)/libnx/switch_rules
 #---------------------------------------------------------------------------------
 APP_TITLE := Quick Reboot
 APP_AUTHOR := eradicatinglove
-APP_VERSION := 1.0.0
+APP_VERSION := 2.0.0
 ICON := icon.jpg
 
 TARGET		:=	$(notdir $(CURDIR))
