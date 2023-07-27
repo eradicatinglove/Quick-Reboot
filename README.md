@@ -4,18 +4,15 @@
 
 just a quick way to reboot your modded mariko switch.
 
-instead of having to power off or restart. 
+No longer have to power off or restart manually with power button. 
 
 the reboot should pick up the payload for hekate and boot back into it. 
 
-tested this on instint v6 . havent tested on any other types.
-
-
-
+*unpatched and erista will need Hekate.bin replace/renamed with reboot_payload.bin in sdmc:/atmosphere*
 
 # Credits
 
-zachycatgames for information / pointing me in right directions
+ZachyCatGames for information / pointing me in right directions
 
 Testers: (checking if quick reboot works on other mod chips)
 dohdoh
