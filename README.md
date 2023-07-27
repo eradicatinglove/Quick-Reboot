@@ -1,4 +1,7 @@
 # Quick Reboot
+![Icon](https://github.com/eradicatinglove/Quick-Reboot/blob/main/icon.jpg)
+
+
 just a quick way to reboot your modded mariko switch.
 
 instead of having to power off or restart. 
