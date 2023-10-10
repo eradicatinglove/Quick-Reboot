@@ -24,8 +24,7 @@ int main(int argc, char **argv)
    
    printf("\x1b[50;60H by eradicatinglove");
    
-   spsmInitialize();
-   
+     
    // Main loop
     while(appletMainLoop())
     {
@@ -34,6 +33,7 @@ int main(int argc, char **argv)
         u64 kDown = padGetButtonsDown(&pad);
 
         if (kDown & HidNpadButton_Minus) {
+            spsmInitialize();
             spsmShutdown(true);
         }
         if (kDown & HidNpadButton_L)  { break; } // break in order to return to hbmenu
