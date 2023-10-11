@@ -28,7 +28,7 @@ int main(int argc, char **argv) {
       spsmInitialize();
       spsmShutdown(true);
     } else if (kDown & HidNpadButton_L) {
-      break;  // return to hbmenu
+      break; // return to hbmenu
     }
 
     // update the console, sending a new frame to the display
