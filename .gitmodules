@@ -1,0 +1,3 @@
+[submodule "quick-reboot-overlay/libs/libtesla"]
+	path = quick-reboot-overlay/libs/libtesla
+	url = https://github.com/WerWolv/libtesla

@@ -13,6 +13,7 @@ the reboot should pick up the payload for hekate and boot back into it.
 # Credits
 
 ZachyCatGames for information / pointing me in right directions
+lucasaf04 for overlay
 
 Testers: (checking if quick reboot works on other mod chips)
 dohdoh

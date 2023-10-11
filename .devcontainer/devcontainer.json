@@ -1,0 +1,9 @@
+{
+    "name": "Switch development environment",
+    "image": "devkitpro/devkita64",
+    "customizations": {
+      "vscode": {
+        "extensions": ["ms-vscode.cpptools"]
+      }
+    }
+  }
