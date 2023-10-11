@@ -1,5 +1,5 @@
 # Quick Reboot
-![Icon](https://github.com/eradicatinglove/Quick-Reboot/blob/main/icon.jpg)
+![Icon](https://github.com/eradicatinglove/Quick-Reboot/blob/main/quick-reboot-app/icon.jpg)
 
 
 just a quick way to reboot your modded mariko switch.
